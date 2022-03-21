@@ -1,2 +1,2 @@
 # coursera-test
-Coursera repository Johns Hopkins university
+Coursera repository - Johns Hopkins university
