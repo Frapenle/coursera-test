@@ -46,11 +46,11 @@ header {
 p {
     background-color: antiquewhite;
     padding: 40px 15px 10px;
-    border: 2px solid black;
+    border: 1px solid black;
 }
 
 [class*="title"] {
-  border: 2px solid black;
+  border: 1px solid black;
   position: absolute;
   top: 0;
   right: 0;
@@ -63,15 +63,15 @@ p {
 }
 
 .title-chicken {
-  background-color: #f3b3b3;
+  background-color: #ffe1e1;
 }
 
 .title-beef {
-  background-color: #f578a0;
+  background-color: #fc9393;
 }
 
 .title-sushi {
-  background-color: #fd5be2;
+  background-color: #ff5c5c;
 }
 
 
